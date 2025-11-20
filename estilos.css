@@ -591,3 +591,20 @@ main {
     background: #BDC3C7;
     color: #1A2530;
 }
+
+/* Intro galeria */
+
+.intro-galeria {
+    text-align: center;
+}
+
+.intro-galeria .intro-text {
+    max-width: 900px;
+    margin: 30px auto;      /* separa del h2 y del video */
+    line-height: 1.6;
+    font-size: 1.1rem;
+}
+
+.intro-galeria .intro-video-wrapper {
+    margin-top: 20px;
+}
